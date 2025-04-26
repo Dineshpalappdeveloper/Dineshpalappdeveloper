@@ -6,5 +6,5 @@
 
 #### 📫 How to reach me: Email: [Dineshkr748199@gmail.com](mailto:Dineshkr748199@gmail.com)
 
-### 🌐 [Visit My Portfolio]([https://dinesh-kumar-portfolio.vercel.app](https://dinesh-kumar-updated-portfolio.netlify.app/)
+### 🌐 [Visit My Portfolio]([https://dinesh-kumar-portfolio.vercel.app](https://dinesh-kumar-updated-portfolio.netlify.app/])
 
