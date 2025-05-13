@@ -1,6 +1,6 @@
 # 👋 Hi, I’m DINESH KUMAR
 
-### 👀 I’m interested in FULL STACK DEVELOPMENT
+### 👀 I’m interested in FRONTEND DEVELOPMENT
 
 #### 🌱 Currently serving as a Senior Software Developer at Global Grand Gaming Pvt Ltd
 
